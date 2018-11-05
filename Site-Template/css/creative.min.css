@@ -1,4 +1,9 @@
-hr{max-width:50px;border-width:3px;border-color:#6d2db0}hr.light{border-color:#fff}
+/*!
+ * Start Bootstrap - Createive v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/creative)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+ */body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif}
+ hr{max-width:50px;border-width:3px;border-color:#6d2db0}hr.light{border-color:#fff}
  a{color:#6d2db0;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
  a:focus,a:hover{color:#6d2db0}h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
  p{font-size:16px;line-height:1.5;margin-bottom:20px}
@@ -50,7 +55,7 @@ hr{max-width:50px;border-width:3px;border-color:#6d2db0}hr.light{border-color:#f
  	.portfolio-box:hover .portfolio-box-caption{opacity:1}.portfolio-box:focus{outline:0}@media (min-width:768px){
  	.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category{font-size:16px}
  	.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name{font-size:22px}}
- 	.call-to-action{padding:50px 0}.call-to-action h2{ position:center; margin:0 auto 20px}
+ 	.call-to-action{padding:50px 0}.call-to-action h2{margin:0 auto 20px}
  	.text-primary{color:#6d2db0!important}.no-gutter>[class*=col-]{padding-right:0;padding-left:0}
  	.btn-default{color:#222;border-color:#fff;background-color:#fff}.btn-default.focus,
  	.btn-default:focus{color:#222;border-color:#bfbfbf;background-color:#e6e6e6}
@@ -78,13 +83,3 @@ hr{max-width:50px;border-width:3px;border-color:#6d2db0}hr.light{border-color:#f
  	.btn-primary .badge{color:#6d2db0;background-color:#6d2db0}
  	.btn{font-weight:700;text-transform:uppercase;border:none;border-radius:300px;font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
  	.btn-xl{padding:15px 30px}
- 	#enviar{background-color: #6d2db0;}
- 	legend{text-align:center; font-size:30px;}
- 	#areatext{margin-left:35%; }
- 	#emailtext{margin-left:35%;}
- 	#radios{margin-right:-35%; margin-left:35%;}
- 	#titulozin{text-align:center; margin-left:-2%;}
- 	.form-control input-md{}
- 	.radio-inline{display:inline;}
- 	#botão{margin-left:41%;}
- 	#labbot{margin-left:-2%;text-align: center;
