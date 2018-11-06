@@ -19,7 +19,7 @@
  #mainNav .navbar-toggle{font-size:12px;font-weight:700;text-transform:uppercase;color:#222}
  #mainNav .navbar-nav>li.nav-item>a.nav-link,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{font-size:13px;font-weight:700;text-transform:uppercase;color:#222}
  #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:hover{color:#0066cc}
- #mainNav .navbar-nav>li.nav-item>a.nav-link.active,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{color:#0066cc!important;background-color:transparent}
+ #mainNav .navbar-nav>li.nav-item>a.nav-link.active,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{color:#fff!important;background-color:transparent}
  #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover{background-color:transparent}@media (min-width:992px)
  {#mainNav{border-color:rgba(255,255,255,.3);background-color:transparent}
  #mainNav .navbar-brand{color:rgba(255,255,255,.7)}#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{color:#fff}
@@ -28,10 +28,10 @@
  #mainNav.navbar-shrink{border-color:rgba(34,34,34,.05);background-color:#fff}
  #mainNav.navbar-shrink .navbar-brand{font-size:16px;color:#0066cc}#mainNav.navbar-shrink .navbar-brand:focus,
  #mainNav.navbar-shrink .navbar-brand:hover{color:#0066cc}#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link,
- #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus{color:#222}#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
+ #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus{color:#fff}#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
  #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover{color:#0066cc}}
- header.masthead{position:relative;width:100%;min-height:auto;text-align:center;color:#fff;background-image:url(../img/header.jpg);background-position:center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
- header.masthead .header-content{position:relative;width:100%;padding:150px 15px 100px;text-align:center}
+ header.masthead{position:relative;width:100%;min-height:auto;text-align:center;color:#fff;/*background-image:url(../img/header.jpg);*/background-position:center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
+ header.masthead .header-content{position:relative;width:110%;padding:150px 15px 100px;text-align:center;margin-left:-5%;}
  header.masthead .header-content .header-content-inner h1{font-size:30px;font-weight:700;margin-top:0;margin-bottom:0;text-transform:uppercase}
  header.masthead .header-content .header-content-inner hr{margin:30px auto}
  header.masthead .header-content .header-content-inner p{font-size:16px;font-weight:300;margin-bottom:50px;color:rgba(255,255,255,.7)}@media (min-width:768px){
