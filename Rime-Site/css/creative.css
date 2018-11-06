@@ -206,7 +206,7 @@ header.masthead {
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 650px;
+  max-width: 100%;
   margin: 0 auto; }
   .portfolio-box .portfolio-box-caption {
     position: absolute;
@@ -236,7 +236,7 @@ header.masthead {
         font-weight: 600;
         text-transform: uppercase; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-        font-size: 18px; }
+        font-size: 18px; }  
   .portfolio-box:hover .portfolio-box-caption {
     opacity: 1; }
   .portfolio-box:focus {
